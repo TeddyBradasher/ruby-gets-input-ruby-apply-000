@@ -1,3 +1,3 @@
-def greeting("you")
+def greeting "you"
   puts "Hi, #{name}! Welcome to the wonderful world of Ruby programming."
 end
